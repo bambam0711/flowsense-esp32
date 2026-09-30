@@ -1,0 +1,10 @@
+secrets.h
+.env
+.env.*
+!.env.example
+build/
+*.bin
+*.elf
+*.log
+.DS_Store
+Thumbs.db
